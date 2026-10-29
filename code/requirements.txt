@@ -1,0 +1,19 @@
+# Representative environment (consumer laptop, one 8 GB GPU)
+torch
+torchvision
+transformers
+accelerate
+bitsandbytes
+qwen-vl-utils
+pandas
+numpy
+scipy
+statsmodels
+rapidfuzz
+matplotlib
+pillow
+imagehash
+ddgs
+requests
+openpyxl
+pytesseract
